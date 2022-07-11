@@ -110,7 +110,7 @@ function Layout({ children }) {
               <i className="ri-notification-line header-action-icon px-2"></i>
                 {/* <Avatar shape="square" size="large" /> */}
               </Badge>
-              <Link className="anchor mx-3" to="/profile">
+              <Link className="anchor mx-3" to="/">
                 {user?.name}
               </Link>
             </div>
