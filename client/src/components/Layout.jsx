@@ -16,7 +16,7 @@ function Layout({ children }) {
     { name: "Home", path: "/", icon: "ri-home-line" },
     { name: "Appointments", path: "/appointments", icon: "ri-file-list-line" },
     { name: "Apply Doctor", path: "/apply-doctor", icon: "ri-hospital-line" },
-    { name: "Profile", path: "/profile", icon: "ri-file-user-line" },
+//     { name: "Profile", path: "/profile", icon: "ri-file-user-line" },
   ];
   const AdminMenu = [
     { name: "Home", path: "/", icon: "ri-home-line" },
